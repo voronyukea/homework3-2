@@ -1,0 +1,83 @@
+
+body { background: #000;
+  background-image: url( ../img/back.png);
+  background-repeat: : no-repeat;
+   background-size: 100%;
+}
+
+.logo  {border: none;
+  outline: none;
+}
+
+
+.foot  {border: none;
+  outline: none;
+}
+
+.header {margin-left: 70px;
+margin-top: 60px;
+weight: 900px;
+}
+
+  .contact {
+  float: right;
+ margin-right:55%;
+  margin-top: 130px;
+  }
+
+
+
+p {font-family: tahoma, serif; color: #e6e6e6;
+}
+
+.con {font-size: 13px; line-height: 2;
+}
+
+.num {font-size: 9px; line-height: 1.5;
+}
+
+.mail {font-size: 9px; line-height: 1.5;
+}
+
+
+.content {margin-left: 50px;}
+
+.fline { font-size: 17px;
+  font-family: tahoma, serif;
+  color: #e6e6e6;
+
+
+}
+
+.f {  display: block;
+  float: left;
+  text-align: center;
+  padding-left: 30px;
+  }
+
+  .botcontent {margin-left: 50px; margin-top: 250px;}
+
+
+  .sline {
+    font-size: 17px;
+    font-family: tahoma, serif;
+    color: #e6e6e6;
+  }
+
+  .s {  display: block;
+    float: left;
+    text-align: center;
+    padding-left: 30px;
+    }
+
+img {
+  border: solid 2px #000000 ;
+  outline: solid 3px #aaaaaa;
+   }
+
+
+   .footer {float:left;
+     margin-top: 460px;
+     margin-left: -520px;
+     margin-bottom: 30px;
+   }
